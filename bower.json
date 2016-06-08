@@ -1,0 +1,12 @@
+{
+  "name": "love",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "Processing.js": "^1.4.16"
+  },
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "mocha": "~2.4.5"
+  }
+}
